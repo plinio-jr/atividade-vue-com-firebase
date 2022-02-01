@@ -8,7 +8,7 @@
           </v-row>
           <v-row class="elevation-3 mx-auto">
               <v-col cols="auto">
-                  <v-img max-height="150" max-width="250" src="@/assets/images/download.png"></v-img>
+                  <v-img max-height="150" max-width="250" src="@/assets/images/firebase_log.png"></v-img>
               </v-col>
               <v-col>
                   <v-form>
